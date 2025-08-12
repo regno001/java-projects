@@ -1,0 +1,7 @@
+Public class Find2dArr{
+public static void main {
+sout("Welcome to Searching the element of 2d array")
+int[] numArr=ArrayUtility.input.nextInt();
+}
+
+}
