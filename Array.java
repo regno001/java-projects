@@ -5,7 +5,7 @@ public class Array {
         marks[1]=23;
         marks[3]=54;
         marks[4]=965;
-        marks[5]=905;
+        marks[5]=905;add a java utility program
         marks[6]=9430;
         System.out.println(marks[0]);
         System.out.println(marks[1]);
@@ -26,3 +26,4 @@ while(index<5){
 }
     }
 }
+
