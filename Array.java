@@ -14,11 +14,11 @@ public class Array {
         System.out.println(marks[4]);
         System.out.println(marks[5]);
         int[] myArr = {1,2,3,4,5,6,7};
-//        System.out.println(myArr[1]);
-//        System.out.println(myArr[2]);
-//        System.out.println(myArr[3]);
-//        System.out.println(myArr[4]);
-//
+       System.out.println(myArr[1]);
+       System.out.println(myArr[2]);
+       System.out.println(myArr[3]);
+       System.out.println(myArr[4]);
+
 int index =0;
 while(index<5){
     index++;
@@ -26,4 +26,5 @@ while(index<5){
 }
     }
 }
+
 
