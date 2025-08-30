@@ -2,4 +2,4 @@
 small java projects
 there are some java projects which are beginner level,mid level and advanced level
 only for practice level stuff
-small java programs new programs will be added soon 
+small java programs 
