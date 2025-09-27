@@ -5,4 +5,9 @@ public class dvd extends LiberaryItem{
     public void setDuration(){
         System.out.printf("Duration is set for %d days",Duration);
     }
+    public void play(){
+
+System.out.println("The video is playing ");
+    }
 }
+
