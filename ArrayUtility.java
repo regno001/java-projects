@@ -4,6 +4,11 @@ public class ArrayUtility {
     public static int[] inputArray(){
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the number of element");
+        System.out.println("Enter the row");
+        int r = input.nextint();
+        
+        System.out.println("Enter the column");
+        int c = input.nextInt();
         int size =input.nextInt();
         int[] num=new int[size];
         int i = 0;
@@ -15,3 +20,5 @@ public class ArrayUtility {
         return num;
     }
 }
+
+
