@@ -25,6 +25,8 @@ while(index<5){
     System.out.println(myArr[index]);
 }
     }
+    }
 }
+
 
 
