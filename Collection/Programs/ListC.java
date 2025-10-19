@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
+import java.util.scanner;
 
 public class ListC {
     public static void main(String[] args) {
@@ -22,3 +23,4 @@ public class ListC {
 
     }
 }
+
