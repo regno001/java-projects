@@ -18,6 +18,7 @@ public class Array {
        System.out.println(myArr[2]);
        System.out.println(myArr[3]);
        System.out.println(myArr[4]);
+        System.out.print(myArr[5]);
 
 int index =0;
 while(index<5){
@@ -27,6 +28,7 @@ while(index<5){
     }
     
 }
+
 
 
 
