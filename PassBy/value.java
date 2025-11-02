@@ -11,4 +11,9 @@ public class value {
         a +=b;
         return a;
     }
+    public void start(){
+System.out.println("Successfully Printed");
+
 }
+}
+
