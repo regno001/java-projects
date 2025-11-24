@@ -17,6 +17,10 @@ public class testingSingleThreadExecuter {
 
         // ✅ Always shut down the ExecutorService
         service.shutdown();
+
+
+        service.execute(p);
     }
 }
+
 
