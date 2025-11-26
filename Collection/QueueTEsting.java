@@ -12,6 +12,7 @@ public class QueueTEsting {
          utility.print(q);
         System.out.println(q.peek());
         System.out.println(q.element());
+        System.out.println(q.peek());
         System.out.println(q.remove());
         utility.print(q);
         System.out.println(q.poll());
@@ -19,3 +20,4 @@ public class QueueTEsting {
         System.out.println(q.peek());
     }
 }
+
