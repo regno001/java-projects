@@ -1,16 +1,19 @@
 import java.util.Scanner;
 public class sumSeries{
 public static void main(String[] args){
-Scanner input = new Scanner(System.in);
-int a = input.nextInt();
+System.out.println("Enter the number ");
+Scanner input= new Scanner(System.in);
+int a=input.nextInt();
+String s =Integer.toString(a);
 int sum=0;
-for(int i=1;i<=a;i++){
-int inSum=0;
-for(int j=1;j<=i;j++){
-inSum += j;
+for(int i=0;i<s.length();i++){
+int insum=0;
+for(int j=i;j<s.length();j++){
+insum+=s.charAt(j) - '0';
 }
-sum+=inSum;
+sum+=insum;
 }
-System.out.println("sum"+ sum);
+System.out.println("sum"+sum);
+
 }
 }
