@@ -2,6 +2,7 @@ package in.regno.exception.Collection;
 
 import java.util.LinkedList;
 import java.util.Queue;
+///abc
 
 public class QueueTEsting {
     public static void main(String[] args) {
@@ -20,4 +21,5 @@ public class QueueTEsting {
         System.out.println(q.peek());
     }
 }
+
 
