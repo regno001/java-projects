@@ -28,7 +28,8 @@ public class refrence {
                     ", y=" + y +
                     '}';
         }
-
+        int x;
         int y;
     }
 }
+
